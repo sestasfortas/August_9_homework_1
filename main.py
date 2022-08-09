@@ -10,4 +10,4 @@ elif what_to_do == '+':
 elif what_to_do == '-':
     print(f'{first_number} - {second_number} =', first_number - second_number)
 else:
-    print("Whatafak you want from me")
+    print("What you want from me dude")
